@@ -1,6 +1,6 @@
 package com.example.role.configuration;
 
-import org.springframework.security.access.SecurityConfig;
+import com.example.role.security.SecurityConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class AppInit extends AbstractAnnotationConfigDispatcherServletInitializer {
